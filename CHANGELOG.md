@@ -1,6 +1,6 @@
 # Changelog
 
-## Version 1.1 (2020-07-22)
+## Version 1.0.1 (2020-07-22)
 * Fix date format
 
 ## Version 1.0 (2020-07-22)
